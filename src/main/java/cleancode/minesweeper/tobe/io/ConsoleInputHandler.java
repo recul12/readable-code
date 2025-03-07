@@ -10,3 +10,4 @@ public class ConsoleInputHandler {
         return SCANNER.nextLine();
     }
 }
+
